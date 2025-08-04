@@ -39,7 +39,7 @@ This project demonstrates a **Mini SOC (Security Operations Center)** built in *
 7. Summary & Real-Time Alert Panel
 
 > 🔗 Full panel details and SPL queries available in `Splunk Dashboard Notes (2).pdf`.
-> [Full Panel Details and SPL Queries - View PDF](https://github.com/YourUsername/YourRepoName/blob/main/Splunk%20Dashboard%20Notes%20(2).pdf)
+> [Full Panel Details and SPL Queries - View PDF](https://github.com/BushraArif90/splunk-windows-login-monitoring/main/Splunk%20Dashboard%20Notes%20(2).pdf)
 
 
 ---
