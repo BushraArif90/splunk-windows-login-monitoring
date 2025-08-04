@@ -39,6 +39,8 @@ This project demonstrates a **Mini SOC (Security Operations Center)** built in *
 7. Summary & Real-Time Alert Panel
 
 > 🔗 Full panel details and SPL queries available in `Splunk Dashboard Notes (2).pdf`.
+> [Full Panel Details and SPL Queries - View PDF](https://github.com/YourUsername/YourRepoName/blob/main/Splunk%20Dashboard%20Notes%20(2).pdf)
+
 
 ---
 
@@ -49,7 +51,7 @@ This project demonstrates a **Mini SOC (Security Operations Center)** built in *
 
 Each alert was set with trigger conditions, throttle options, and tested for effectiveness.
 
-> 📷 See `alert_screenshots/` for real-time alert configurations.
+> 📷 See `Alerts_panel screenshots/` for real-time alert configurations.
 
 ---
 
