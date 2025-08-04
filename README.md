@@ -81,9 +81,9 @@ This project simulates real-world SOC use:
 
 ## 📷 Screenshots
 
-<img src="screenshot 1.png" width="600"/>
+<img src="Screenshot_1.png" width="600"/>
 
-<img src="screenshot 2.png" width="600"/>
+<img src="Screenshot_2.png" width="600"/>
 
 ---
 
