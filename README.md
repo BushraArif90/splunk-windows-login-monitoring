@@ -38,7 +38,7 @@ This project demonstrates a **Mini SOC (Security Operations Center)** built in *
 6. Password Reset / Account Lock Events
 7. Summary & Real-Time Alert Panel
 
-> 🔗 Full panel details and SPL queries available in `notes/Splunk_Project_Notes.pdf`.
+> 🔗 Full panel details and SPL queries available in `Splunk Dashboard Notes (2).pdf`.
 
 ---
 
