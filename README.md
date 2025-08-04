@@ -51,7 +51,7 @@ This project demonstrates a **Mini SOC (Security Operations Center)** built in *
 
 Each alert was set with trigger conditions, throttle options, and tested for effectiveness.
 
-> 📷 See `Alerts_panel screenshots/` for real-time alert configurations.
+> 📷 [See `Alerts_panel screenshots/` for real-time alert configurations-View screenshot](https://github.com/BushraArif90/splunk-windows-login-monitoring/blob/main/Alerts-panel.png)
 
 ---
 
@@ -83,9 +83,13 @@ This project simulates real-world SOC use:
 
 ## 📷 Screenshots
 
-<img src="Screenshot_1.png" width="600"/>
+<img src="dashboard_panel1.png" width="600"/>
 
-<img src="Screenshot_2.png" width="600"/>
+<img src="dashboard_panel2.png" width="600"/>
+
+<img src="dashboard_panel3.png" width="600"/>
+
+<img src="dashboard_panel4.png" width="600"/>
 
 ---
 
