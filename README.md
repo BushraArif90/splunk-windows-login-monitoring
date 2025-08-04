@@ -64,7 +64,7 @@ Each alert was set with trigger conditions, throttle options, and tested for eff
 
 ## 📁 Notes & Documentation
 
-📄 See: `notes/Splunk_Project_Notes.pdf` for a complete breakdown of:
+📄 See: [`notes/Splunk_Project_Notes.pdf` for a complete breakdown of:](https://github.com/BushraArif90/splunk-windows-login-monitoring/blob/main/Splunk%20Dashboard%20Notes%20(2).pdf)
 - Dashboard panels
 - SPL queries
 - Real-time alert configuration
@@ -83,13 +83,13 @@ This project simulates real-world SOC use:
 
 ## 📷 Screenshots
 
-<img src="dashboard_panel1.png" width="600"/>
+<img src="dashboard-panel1.png" width="600"/>
 
-<img src="dashboard_panel2.png" width="600"/>
+<img src="dashboard-panel2.png" width="600"/>
 
-<img src="dashboard_panel3.png" width="600"/>
+<img src="dashboard-panel3.png" width="600"/>
 
-<img src="dashboard_panel4.png" width="600"/>
+<img src="dashboard-panel4.png" width="600"/>
 
 ---
 
