@@ -64,7 +64,7 @@ Each alert was set with trigger conditions, throttle options, and tested for eff
 
 ## 📁 Notes & Documentation
 
-📄 See: [`notes/Splunk_Project_Notes.pdf` for a complete breakdown of:](https://github.com/BushraArif90/splunk-windows-login-monitoring/blob/main/Splunk%20Dashboard%20Notes%20(2).pdf)
+📄 See: [`notes/Splunk_Project_Notes.pdf` ](https://github.com/BushraArif90/splunk-windows-login-monitoring/blob/main/Splunk%20Dashboard%20Notes%20(2).pdf)
 - Dashboard panels
 - SPL queries
 - Real-time alert configuration
